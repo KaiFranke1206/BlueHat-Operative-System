@@ -3,4 +3,4 @@
 (comments added via chatgpt and deepseek)
 
 TODO:
-Change Name from EG-Term top BlueHat-OS
+Change Name from EG-Term to BlueHat-OS
