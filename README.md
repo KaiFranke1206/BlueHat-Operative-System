@@ -5,3 +5,8 @@
 TODO:
 - Change Name from EG-Term to BlueHat-OS
 - Change project file structure
+- proper filesystem
+- add binary file support
+- add runbin command
+- add general useful commands
+- implement syscalls and interrupts
